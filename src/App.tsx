@@ -14,7 +14,8 @@ export default function App() {
     >
       <div>
         <h1>👑 El Reino de Angeline</h1>
-        <p>Muy pronto, un álbum de recuerdos para celebrar su cumpleaños.</p>
+        <p>Una princesa, una corona y 6 añitos de magia!</p>
+        <p>Aquí guardaremos los recuerdos de este día tan especial</p>
       </div>
     </main>
   );
